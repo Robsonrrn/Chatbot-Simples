@@ -1,2 +1,2 @@
-# Chatbox-Simples
- Chatbox simples criado com Jquery
+# Chatbot-Simples
+ Chatbot simples criado com Jquery
